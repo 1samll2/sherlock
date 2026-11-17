@@ -4,6 +4,7 @@ Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +14,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
+Linktree
 ObservableHQ
 Odysee
 PCGamer
