@@ -3,7 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -27,10 +26,8 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-SpaceHey
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
